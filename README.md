@@ -1,2 +1,2 @@
 # Project-Numera-Quest-Kingdom-of-Math-Runes
-An offline AI retro console where kids defeat fantasy monsters by holding up their fingers to solve math puzzles in front of a camera!
+A retro-inspired math adventure where kids use camera-based finger input to solve challenges and save the Kingdom with Arduino UNO Q.
