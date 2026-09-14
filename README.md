@@ -13,7 +13,7 @@ The game flow is simple: explore → reach the QUEST marker → press A → hear
 
 ## BOM / Components
 
-The following Bill of Materials lists the hardware components used to build and demonstrate Numera Quest: Kingdom of Math Runes  
+The following Bill of Materials lists the hardware components used to build and demonstrate Numera Quest  
 
 **Hardware** 🛠️  
 - Arduino UNO Q — 1 — Main computing and embedded platform
@@ -33,6 +33,14 @@ The following Bill of Materials lists the hardware components used to build and 
 - Edge Impulse — Finger-recognition model development and training
 0 Python — PyGame and App Lab applications
 
+  
+------------------------------------------------------------------------------------------------------
+
+📕 **YouTube Video Links**  
+  
+▶️  Camera-Based Finger Recognition with Edge Impulse | Arduino UNO Q & App Lab - 🔗 https://youtu.be/K7Qo9uM6nGU   
+  
+▶️  Project - Numera Quest: Kingdom of Math Runes - 🔗 https://youtu.be/jCOB4jtAcek  
 
 ------------------------------------------------------------------------------------------------------
 
