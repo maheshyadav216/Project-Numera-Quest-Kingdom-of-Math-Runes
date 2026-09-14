@@ -7,7 +7,31 @@ Numera Quest: Kingdom of Math Runes is an interactive math-adventure game built 
 
 The system uses UNO Q's Linux/MPU side for the main PyGame application, handling the game world, player movement, collision detection, game state, quests and progression. Arduino App Lab runs alongside it and handles the Video Image Classification Brick for finger detection, the Sound Generator Brick for voice and sound effects, and Arduino Bridge for communicating with the UNO Q's STM32U585 and its onboard 8×13 LED matrix. The PyGame application and App Lab communicate through UDP on port 5005. A Logitech C270 webcam captures the player's hand, App Lab classifies the gesture as one to five fingers, and sends the result back to the game. The game stabilizes the detection before accepting it as an answer.
 
-The game flow is simple: explore → reach the QUEST marker → press A → hear the challenge → show the answer with your fingers → get immediate feedback. A correct answer completes the quest and unlocks the next world, while an incorrect answer consumes one of three attempts and provides audio feedback. After completing all three quests, the player reaches the final victory screen, showing that the Kingdom of Numbers is safe, with options to Play Again or Exit.
+The game flow is simple: explore → reach the QUEST marker → press A → hear the challenge → show the answer with your fingers → get immediate feedback. A correct answer completes the quest and unlocks the next world, while an incorrect answer consumes one of three attempts and provides audio feedback. After completing all three quests, the player reaches the final victory screen, showing that the Kingdom of Numbers is safe, with options to Play Again or Exit.  
+  
+------------------------------------------------------------------------------------------------------
+
+## BOM / Components
+
+The following Bill of Materials lists the hardware components used to build and demonstrate Numera Quest: Kingdom of Math Runes  
+
+**Hardware** 🛠️  
+- Arduino UNO Q — 1 — Main computing and embedded platform
+- Multiport USB-C Hub — 1 — Peripheral connectivity and expansion
+- HDMI Monitor — 1 — Main game display
+- Logitech C270 USB Webcam — 1 — Camera-based finger interaction
+- Wireless Gamepad / Joypad — 1 — Primary gameplay controller
+- Keyboard — 1 — Development and auxiliary operation
+- Mouse — 1 — Development and auxiliary operation
+- External Speakers with 3.5 mm input — 2 — Voice prompts, music and sound effects
+- 5V/4A Power Adapter — 1 — External power for the USB-C hub
+- Ethernet Cable — 1 — Wired network connection
+
+**Software & Tools** 🖥️
+- Arduino App Lab — AI, audio and Arduino Bridge integration, STM32U585 MCU development
+- PyGame — Main game engine and rendering
+- Edge Impulse — Finger-recognition model development and training
+0 Python — PyGame and App Lab applications
 
 
 ------------------------------------------------------------------------------------------------------
