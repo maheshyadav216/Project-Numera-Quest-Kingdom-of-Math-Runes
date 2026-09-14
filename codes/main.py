@@ -1,3 +1,12 @@
+# Project/Tutorial       - Numera Quest: Kingdom of Math Runes
+# Author                 - https://www.hackster.io/maheshyadav216
+# Hardware               - Arduino UNO Q    
+# Software               - Arduino App Lab
+# GitHub Repo of Project - https://github.com/maheshyadav216/Project-Numera-Quest-Kingdom-of-Math-Runes
+# Code last Modified on  - 14/09/2026
+# Code/Content license   - (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/
+#============================================================================//
+# This is main.py (App Lab)
 import os
 import socket
 import time
