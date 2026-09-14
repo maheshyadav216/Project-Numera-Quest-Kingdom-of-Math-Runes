@@ -31,9 +31,15 @@ The following Bill of Materials lists the hardware components used to build and 
 - Arduino App Lab — AI, audio and Arduino Bridge integration, STM32U585 MCU development
 - PyGame — Main game engine and rendering
 - Edge Impulse — Finger-recognition model development and training
-0 Python — PyGame and App Lab applications
+- Python — PyGame and App Lab applications
 
   
+## Documentation
+
+- Refer the [Documentation website](https://docs.arduino.cc/hardware/uno-q/) for more information.  
+- Arduino UNO Q [User Guide](https://docs.arduino.cc/tutorials/uno-q/user-manual/)  
+- Arduino UNO Q [Launch Page](https://www.arduino.cc/product-uno-q/)  
+
 ------------------------------------------------------------------------------------------------------
 
 📕 **YouTube Video Links**  
@@ -50,8 +56,23 @@ The following Bill of Materials lists the hardware components used to build and 
   
 🌐 Hackster Blog -  
 🔗 https://www.hackster.io/maheshyadav216/numera-quest-kingdom-of-math-runes-bba48f 
+
+-------------------------------------------------------------------------------------------------------
+📒 **Important Links**  
+ 
+📖 UNO Q User Manual :🔗 https://docs.arduino.cc/tutorials/uno-q/user-manual/    
+💾 Arduino Docs : 🔗 https://docs.arduino.cc/hardware/uno-q/  
+
+📌 Arduino UNO Q Accessories :  🔗 https://blog.make2explore.com/arduino-drops-seven-fresh-accessories-to-supercharge-the-uno-q/   
+
+🛒  Purchase  -   
+Arduino® UNO™ Q 4GB  : 🔗 https://store-usa.arduino.cc/products/uno-q-4gb  
+Arduino® UNO™ Q 2GB  : 🔗 https://store-usa.arduino.cc/products/uno-q-2gb  
+
+Product page :  🔗 https://www.arduino.cc/product-uno-q/   
+
+------------------------------------------------------------------------------------------------------
   
-------------------------------------------------------------------------------------------  
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
