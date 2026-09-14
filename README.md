@@ -38,7 +38,7 @@ The following Bill of Materials lists the hardware components used to build and 
 
 📕 **YouTube Video Links**  
   
-▶️  Camera-Based Finger Recognition with Edge Impulse | Arduino UNO Q & App Lab - 🔗 https://youtu.be/K7Qo9uM6nGU   
+▶️  Camera-Based Finger Recognition with Edge Impulse 🔗 https://youtu.be/K7Qo9uM6nGU   
   
 ▶️  Project - Numera Quest: Kingdom of Math Runes - 🔗 https://youtu.be/jCOB4jtAcek  
 
